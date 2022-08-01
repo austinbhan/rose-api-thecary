@@ -66,7 +66,7 @@ Welcome to Rose API-thecary. A locally-sourced hand-crafted API which returns li
 }
 ```
 
-- All tests are passing
+- All  are passing
 
 ### Rubric
 
